@@ -1,6 +1,6 @@
 galaxy_info:
   author: Maximilian Koch
-  description: trainee consultant
+  description: This role installs MYSQL database
   company: cairo AG
 
   # If the issue tracker for your role is not on github, uncomment the
